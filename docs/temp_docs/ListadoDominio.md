@@ -255,6 +255,7 @@ Gestionar la creación, cancelación y validación de turnos.
 
 Reglas que aplica
 CRUD disponibilidad de turnos.
+Verificar si se permiten sobreturnos.
 Verificar la disponibilidad horaria.
 Verificar disponibilidad del Profesional.
 Verificar que el Paciente no tenga turno simultáneo.
